@@ -1,0 +1,38 @@
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\Hello Web app.exe
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\Hello Web app.deps.json
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\Hello Web app.runtimeconfig.json
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\Hello Web app.runtimeconfig.dev.json
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\Hello Web app.dll
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\Hello Web app.pdb
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\Hello Web app.Views.dll
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\bin\Release\netcoreapp3.1\Hello Web app.Views.pdb
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.csproj.AssemblyReference.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.AssemblyInfoInputs.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.AssemblyInfo.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.csproj.CoreCompileInputs.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.RazorAssemblyInfo.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.RazorAssemblyInfo.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\staticwebassets\Hello Web app.StaticWebAssets.Manifest.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\staticwebassets\Hello Web app.StaticWebAssets.xml
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\scopedcss\bundle\Hello Web app.styles.css
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.TagHelpers.input.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.TagHelpers.output.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.RazorCoreGenerate.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.RazorTargetAssemblyInfo.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.RazorTargetAssemblyInfo.cs
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.Views.pdb
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.dll
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.pdb
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.genruntimeconfig.cache
+C:\Users\mjayakumarmca\source\repos\Hello Web app\Hello Web app\obj\Release\netcoreapp3.1\Hello Web app.csproj.CopyComplete
